@@ -7,7 +7,7 @@ Script moves several of your installed fonts into the hidden key - after that, t
 ### How to use?
 Run `python.exe font_fingerprint.py N`, where N is number of fonts you want to move to Hidden key.
 
-If you are not comfortable with the command-line, simply start the file START.dat with the administrator privileges and enter number from 1 to 64
+If you are not comfortable with the command-line, simply start the file `START.bat` with the administrator privileges and enter number from 1 to 64
 
 
 
